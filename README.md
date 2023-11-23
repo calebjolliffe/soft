@@ -1,2 +1,5 @@
-# soft
-Building a simple site for a blog.
+# Soft Study
+Building out a new website for the Soft Study blog.
+
+## Backlog
+- [ ] 
