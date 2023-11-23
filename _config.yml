@@ -1,0 +1,8 @@
+# Site settings
+title: Soft Study
+description: Blog description TBD
+baseurl: "/blog"
+url: "URL TBD"
+
+# Build settings
+markdown: kramdown
